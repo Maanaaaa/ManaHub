@@ -35,7 +35,7 @@ gameSection:Button('Next stage', function()
 end)
 
 -- // playerSection
-playerSection:Slider("Speed", {
+playerSection:Slider("Walk speed", {
     min = 1,
     max = 100,
     precise = false

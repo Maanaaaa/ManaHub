@@ -6,7 +6,7 @@ A project that i created to expand my creativity in making stuff + the ways of d
   * Auto stage
   * Next Stage
 - Universal:
-  * Speed
+  * Walk speed
   * JumpPower
   * Reset character
 
